@@ -44,7 +44,7 @@ $("#6").on("click", function() {
     console.log(map_of_items_count(
         [true, "true", 1, 2, 2, '0', 0]
     ));
-    
+
     let result_number = people_in_max_group(
         [
             new Student2("6203"),
@@ -58,7 +58,7 @@ $("#6").on("click", function() {
             new Student2("6202"),
             new Student2("6202"),
             new Student2("6202"),
-            
+
             new Student2("6201"),
             new Student2("6201"),
         ]

@@ -83,8 +83,6 @@ class Student {
 }
 
 $("#3").on("click", function() {
-    alert("Открой консоль разработчика -> F12");
-
     const newStudent = new Student("Jane", "Sin");
 
     console.log(newStudent.midMark());
